@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class PermutationEncryption {
+public class permutationencryption {
 	
 	public static void main(String[] args) throws IOException {
 
