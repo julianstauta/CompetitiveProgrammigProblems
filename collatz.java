@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class Collaz {
+public class collatz {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
