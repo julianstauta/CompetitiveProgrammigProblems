@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class CoastLength {
+public class coast {
 
 	static int[][] matriz = null;
 	static boolean[][] visitados = null;
