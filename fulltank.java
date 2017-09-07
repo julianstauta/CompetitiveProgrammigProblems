@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class FullTank {
+public class fulltank {
 
 	static BufferedReader in;
 	static BufferedWriter out;
