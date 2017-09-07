@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class CD {
+public class cd {
 	
 	public static void main(String[] args) throws IOException{
 		
