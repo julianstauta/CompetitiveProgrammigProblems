@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class SecretMessage {
+public class secretmessage {
 
 	public static void main(String[] args) throws IOException {
 
