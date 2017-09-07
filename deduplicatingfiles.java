@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.HashMap;
 import java.util.Iterator;
 
-public class DeduplicatingFiles {
+public class deduplicatingfiles {
 
 	public static void main(String[] args) throws IOException{
 		
