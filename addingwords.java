@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class AddingWords {
+public class addingwords {
 
 	public static void main(String[] args) throws IOException {
 		
