@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class FlexibleSpaces {
+public class flexible {
 
 	public static void main(String[] args) throws IOException {
 
