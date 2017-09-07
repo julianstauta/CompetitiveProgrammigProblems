@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Restaurant {
+public class restaurant {
 
 	public static void main(String[] args) throws IOException {
 
