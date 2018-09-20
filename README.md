@@ -1,2 +1,2 @@
 # CompetitiveProgrammigProblems
-Competitive programming problems
+Competitive programming solved problems from different online judges
