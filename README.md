@@ -1,2 +1,0 @@
-# KattisProblems
-Kattis solved problems
